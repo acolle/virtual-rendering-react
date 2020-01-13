@@ -1,4 +1,4 @@
-## Virtual Rendering with react
+## Virtual Rendering with React
 
 A React implementation of Virtual Rendering to prevent slow and laggy scrolling of large lists.
 
