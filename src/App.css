@@ -38,6 +38,10 @@
   }
 }
 
+.ReactVirtualized__List:focus {
+  outline: none;
+}
+
 .list {
   padding-left: 12px;
   height: calc(100vh - 30vh);
